@@ -1,2 +1,2 @@
-Login Module - Username and Password
+Login Module - Username and Passwrod
 Email
